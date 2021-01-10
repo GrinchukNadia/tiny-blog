@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './post-add-form.css'
+
 const PostAddForm = () => {
     return(
         <from className="bottom-panel d-flex">
